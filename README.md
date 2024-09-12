@@ -1,3 +1,2 @@
 # sourcecode
-Tabel Simple Menggunakan Gotoxy\n
-Simple Table Using Gotoxy
+Tabel Simple Menggunakan Gotoxy / Simple Table Using Gotoxy
